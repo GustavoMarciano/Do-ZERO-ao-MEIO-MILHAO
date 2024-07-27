@@ -2,7 +2,7 @@
 
 ![IMG_20191006_180653935.jpg](https://raw.githubusercontent.com/GustavoMarciano/Do-ZERO-ao-MEIO-MILHAO/main/IMG_20191006_180653935.jpg)
 
-*Foto do evento Santos Comic Expo*
+*Foto de da nossa apresentação no evento Santos Comic Expo*
 
 Após uma divisão do grupo de desenvolvimento fui encarregado de realizar uma análise de mercado para entender melhor a demanda dos usuários do site itch.io. 
 No começo realizei uma análise muito superficial, mas que foi útil para entender como o site funcionava e que possibilitou um estudo muito mais aprofundado usando o sistema de tags do site. 
